@@ -18,7 +18,6 @@ Coming soon – stay tuned!
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
