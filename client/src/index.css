@@ -18,12 +18,12 @@ body {
   justify-content: center;
 }
 
-/* Optional link styles */
+
 a {
   @apply font-medium text-blue-600 hover:text-blue-800 transition-colors;
 }
 
-/* Optional button reset */
+
 button {
   @apply rounded-lg border border-transparent px-4 py-2 text-base font-medium bg-gray-900 text-white hover:border-blue-500 transition-colors;
 }
